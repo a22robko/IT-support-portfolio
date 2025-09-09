@@ -25,6 +25,8 @@ Detta är en vanlig arbetsuppgift för IT-support när en ny medarbetare ska kun
 
 <img width="509" height="493" alt="image" src="https://github.com/user-attachments/assets/22381049-b306-40b0-83a9-2eac58373027" />
 <img width="669" height="982" alt="image" src="https://github.com/user-attachments/assets/75309f3a-55c4-4f73-a47d-49bce00c9b72" />
-<img width="1097" height="850" alt="image" src="https://github.com/user-attachments/assets/94e4bc2d-db40-4e31-941c-266766fc3884" />
+<img width="697" height="850" alt="image" src="https://github.com/user-attachments/assets/94e4bc2d-db40-4e31-941c-266766fc3884" />
 
 
+<img width="625" height="294" alt="image" src="https://github.com/user-attachments/assets/68eaee52-e21b-4e96-8660-c979d007db74" />
+<img width="704" height="496" alt="image" src="https://github.com/user-attachments/assets/ea648b9c-d847-487e-ae1e-f7f1d99cb16d" />
