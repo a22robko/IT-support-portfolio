@@ -30,3 +30,4 @@ Detta är en vanlig arbetsuppgift för IT-support när en ny medarbetare ska kun
 
 <img width="625" height="294" alt="image" src="https://github.com/user-attachments/assets/68eaee52-e21b-4e96-8660-c979d007db74" />
 <img width="704" height="496" alt="image" src="https://github.com/user-attachments/assets/ea648b9c-d847-487e-ae1e-f7f1d99cb16d" />
+<img width="1375" height="1030" alt="image" src="https://github.com/user-attachments/assets/ebf2c1a8-03d6-420d-a2b9-efed4cae2308" />
