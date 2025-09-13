@@ -34,6 +34,9 @@ Select the appropriate **Microsoft 365 license** to enable access to Teams, Outl
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/a3460ef3-7bb1-45e4-9510-3349031ba5d4" />
 
 ---
+<img width="1398" height="835" alt="image" src="https://github.com/user-attachments/assets/e1f07fca-e8cd-4c6c-805f-21806de82660" />
+
+<img width="1392" height="1068" alt="image" src="https://github.com/user-attachments/assets/50e53586-a105-4d9b-90fc-4273d74ea7df" />
 
 ## 5) Review and Create User  
 Confirm all settings and click **Finish adding**.  
@@ -43,7 +46,6 @@ The user will now appear under **Active users**.
 
 ---
 
-## 6) Removing a User  
 When an employee leaves, select the user and choose **Delete user**.  
 You can:  
 - Transfer access to their **email**  
@@ -59,16 +61,10 @@ After deletion, the Microsoft 365 license is automatically freed up and can be r
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/2723ad3e-7904-44d8-918e-fe277474d74a" />
 
----
 
-## 8) Confirmation  
-The deleted account is retained for **30 days** and can be restored if needed.  
-
-<img width="540" alt="image" src="https://github.com/user-attachments/assets/d873133b-a9ba-4934-b814-1d3a7194ca3d" />
-
----
 
 ✅ **Result:**  
 - Created and managed new users with assigned roles and licenses  
 - Properly offboarded users while securing organizational data  
 - Ensured licenses are recycled efficiently  
+
