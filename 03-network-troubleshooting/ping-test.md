@@ -21,4 +21,4 @@ Manually configure a static IP address and DNS server for a client machine.
 <img width="619" height="689" alt="image" src="https://github.com/user-attachments/assets/c6792f60-f926-4557-a750-ec5b22cc473e" />
 
 **Step 2 – Configure static IP and DNS**  
-<img width="1276" height="1220" alt="image" src="https://github.com/user-attachments/assets/f10dc081-447c-468f-8fd7-5ed23c10f1a8" />
+<img width="676" height="1220" alt="image" src="https://github.com/user-attachments/assets/f10dc081-447c-468f-8fd7-5ed23c10f1a8" />
