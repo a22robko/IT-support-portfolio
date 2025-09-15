@@ -1,34 +1,55 @@
+# IT Support Portfolio  
 
-<img width="535" height="582" alt="image" src="https://github.com/user-attachments/assets/d1310d06-58d8-424f-9928-69efef2b174a" />
-
-# IT-support-portfolio
-
-Detta repo visar en enkel IT-support-labb där jag övat på vanliga arbetsuppgifter inom **nätverk** och **Active Directory**.  
-Alla steg är dokumenterade med screenshots.
+This portfolio demonstrates hands-on skills in **Active Directory administration**,  **Microsoft365** and **network troubleshooting**.  
+It includes step-by-step labs with evidence screenshots.  
 
 ---
 
-## 1. Konfigurera IP-adress och DNS
-Exempel på manuell IP-konfiguration i Windows. Detta är viktigt för att en **Domain Controller** ska fungera korrekt i en labbmiljö.
+## 1. Active Directory On-Prem  
+Tasks performed in a Windows Server environment using **Active Directory Users and Computers (ADUC)**:  
 
-<img width="455" height="576" alt="IP Configuration" src="https://github.com/user-attachments/assets/65f8b676-140d-4761-8060-bd87859856b1" />
+- Create user accounts  
+- Create security groups and add users  
+- Reset user passwords  
+- Unlock locked-out accounts  
+- Configure group memberships  
+- Add and manage shared printers  
+
+👉 [View Active Directory Labs](./01-active-directory-onprem)  
 
 ---
 
-## 2. Skapad domän i Active Directory
-Här syns domänen `mydomain.com` i **Active Directory Users and Computers (ADUC)**.  
-Detta är grunden för att kunna hantera användare och datorer centralt.
-Här skapade jag en ny användare i domänen.  
-Detta är en vanlig arbetsuppgift för IT-support när en ny medarbetare ska kunna logga in.
+## 2. Microsoft 365 Administration  
+Tasks performed in Microsoft 365 Admin Center:  
 
-<img width="455" height="576" alt="User Creation" src="https://github.com/user-attachments/assets/a001d9fd-bcea-49f0-9807-48958e590f5a" />
+- Create and manage users  
+- Assign and remove licenses  
+- Create and manage groups/teams  
+- Configure aliases and emails  
+- Reset user passwords  
 
-<img width="509" height="493" alt="image" src="https://github.com/user-attachments/assets/22381049-b306-40b0-83a9-2eac58373027" />
-<img width="669" height="982" alt="image" src="https://github.com/user-attachments/assets/75309f3a-55c4-4f73-a47d-49bce00c9b72" />
-<img width="697" height="850" alt="image" src="https://github.com/user-attachments/assets/94e4bc2d-db40-4e31-941c-266766fc3884" />
+👉 [View Microsoft 365 Labs](./02-microsoft365-admin)  
 
+---
 
-<img width="625" height="294" alt="image" src="https://github.com/user-attachments/assets/68eaee52-e21b-4e96-8660-c979d007db74" />
-<img width="704" height="496" alt="image" src="https://github.com/user-attachments/assets/ea648b9c-d847-487e-ae1e-f7f1d99cb16d" />
-<img width="1375" height="1030" alt="image" src="https://github.com/user-attachments/assets/ebf2c1a8-03d6-420d-a2b9-efed4cae2308" />
-<img width="1347" height="834" alt="image" src="https://github.com/user-attachments/assets/a8e61357-d41d-4bb7-81ea-966c743d059e" />
+## 3. Network Troubleshooting  
+Tasks performed on a Windows client/server environment:  
+
+- Verify DHCP leases  
+- Configure DHCP scope options  
+- Perform ping tests  
+- Verify domain/DNS resolution  
+- Configure static IP addresses  
+
+👉 [View Network Labs](./03-network-troubleshooting)  
+
+---
+
+## Skills Demonstrated  
+- Active Directory user and group management  
+- Microsoft 365 administration  
+- Network configuration and troubleshooting  
+- DNS and DHCP management  
+- IT support documentation with evidence  
+
+---
