@@ -13,7 +13,8 @@ Verify that the client can reach the DNS server and resolve domain names to IP a
 
 ## Evidence
 <p align="left">
-  <img width="500" alt="DNS Lookup Screenshot" src="https://github.com/user-attachments/assets/6e438b2e-26fa-4e4b-88fc-abab4ae7ef20" />
+  <img width="600" alt="DNS Lookup Screenshot" src="https://github.com/user-attachments/assets/6e438b2e-26fa-4e4b-88fc-abab4ae7ef20" />
 </p>
 
 *Figure 1 – DNS Lookup and IP configuration results.*
+
