@@ -8,7 +8,7 @@ A PowerShell script together with a CSV file was used to automatically create mu
 ---
 
 ### Step 2 – Verify in Active Directory Users and Computers (ADUC)
-The users can be seen in Active Directory under the correct OU (Organizational Unit).
+A CSV file with new user accounts is imported into Active Directory using PowerShell. The accounts are created with temporary passwords and placed in the correct OU. They are then verified in ADUC, and users can log in for the first time and change their password.
 
 <img width="563" height="414" alt="image" src="https://github.com/user-attachments/assets/0457a6b4-52d4-4295-a4e8-cccf9c79143f" />
 
