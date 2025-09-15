@@ -1,10 +1,13 @@
+<div align="center" style="background-color:#0d6efd; color:white; padding:20px; border-radius:10px;">
+
 # IT Support Portfolio  
 
-This portfolio demonstrates hands-on skills in **Active Directory administration**,  **Microsoft365** and **network troubleshooting**.  
+</div>  
+
+This portfolio demonstrates hands-on skills in **Active Directory administration**, **Microsoft 365**, and **network troubleshooting**.  
 It includes step-by-step labs with evidence screenshots.  
 
 ---
-
 ## 1. Active Directory On-Prem  
 Tasks performed in a Windows Server environment using **Active Directory Users and Computers (ADUC)**:  
 
